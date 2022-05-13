@@ -7,7 +7,7 @@
 ### Link de acesso  https://courageous-mochi-998e5a.netlify.app
 
 
-- ## Tabela de Planos
+- ## Tabela de Planos Responsivo
 
 ![image](https://user-images.githubusercontent.com/43691685/168220041-d0da316b-c343-4494-b13f-072230b0acf7.png)
 
